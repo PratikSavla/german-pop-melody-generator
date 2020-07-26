@@ -112,7 +112,7 @@ conda install --force-reinstall -y --name germelgen --file requirements.txt
 python preprocess.py
 python train.py
 ```
-2. Use Pretrained [Model](link) to generate melody.
+2. Use Pretrained [Model](model.h5) to generate melody.
 ```sh
 python melodygenerator.py
 ```
