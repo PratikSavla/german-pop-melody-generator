@@ -62,7 +62,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
 * [Python](https://www.anaconda.com/)
 * [Tensorflow](https://www.tensorflow.org/)
 * [Music21](http://web.mit.edu/music21/)
@@ -159,15 +159,15 @@ Project Link: [https://github.com/PratikSavla/GermanMelGen](https://github.com/P
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/PratikSavla/GermanMelGen.svg?style=flat-square
 [contributors-url]: https://github.com/PratikSavla/GermanMelGen/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/PratikSavla/GermanMelGen.svg?style=flat-square
 [forks-url]: https://github.com/PratikSavla/GermanMelGen/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/PratikSavla/GermanMelGen.svg?style=flat-square
 [stars-url]: https://github.com/PratikSavla/GermanMelGen/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/PratikSavla/GermanMelGen.svg?style=flat-square
 [issues-url]: https://github.com/PratikSavla/GermanMelGen/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/PratikSavla/GermanMelGen.svg?style=flat-square
 [license-url]: https://github.com/PratikSavla/GermanMelGen/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/pratik-savla-b5973815b/
